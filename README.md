@@ -53,4 +53,10 @@ Tracks day-wise earnings.
 
 ---
 
+## 🧑‍💻 Author
+
+**Richanshu Yadav**  
+[GitHub Profile](https://github.com/richanshu14)
+
+
 
