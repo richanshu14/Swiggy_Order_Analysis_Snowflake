@@ -2,10 +2,13 @@
 
 This project demonstrates an end-to-end data analysis pipeline on Swiggy food delivery data using **Snowflake SQL and Snowsight Dashboards**.
 
+---
+
 ## 📊 Snowflake Dashboard Preview
 
 ![Swiggy Snowflake Analysis](snowflake_dashboard.png)
 
+---
 
 ## 📌 Project Overview
 
@@ -13,6 +16,8 @@ This project demonstrates an end-to-end data analysis pipeline on Swiggy food de
 - 📊 Created visualizations like revenue trend, top restaurants, and order breakdown
 - 📁 Organized all SQL and screenshots in one GitHub repo
 - ✅ Great for portfolio or interview showcase
+
+---
 
 ## 📁 Dataset Fields
 
@@ -28,6 +33,8 @@ This project demonstrates an end-to-end data analysis pipeline on Swiggy food de
 | payment_method  | UPI, Card, Cash, etc.              |
 | delivery_status | Delivered or Cancelled             |
 
+---
+
 ## 📊 Key Insights (Visualized)
 
 ### 📌 1. Revenue by Restaurant
@@ -39,6 +46,8 @@ Tracks day-wise earnings.
 ### 📌 3. Orders by Payment Method
 
 ### 📌 4. Dashboard View (All Insights Combined)
+
+---
 
 ## 📈 Key Performance Indicators (KPIs)
 
@@ -52,6 +61,8 @@ Tracks day-wise earnings.
 | 📦 Avg. Order Value (AOV)    | ₹565            |
 | 🍕 Most Ordered Cuisine      | North Indian    |
 | 🔁 Repeat Order %            | 41.2%           |
+
+---
 
 ## 🧠 How to Use
 
