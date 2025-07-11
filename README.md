@@ -40,6 +40,19 @@ Tracks day-wise earnings.
 
 ### 📌 4. Dashboard View (All Insights Combined)
 
+## 📈 Key Performance Indicators (KPIs)
+
+| KPI                          | Value (Example) |
+|------------------------------|-----------------|
+| 🛒 Total Orders              | 25,678          |
+| 💰 Total Revenue             | ₹14,50,000      |
+| 🧍 Unique Customers          | 9,870           |
+| 🏙️ Top City by Orders        | Bangalore       |
+| 🕐 Avg. Delivery Time        | 32 minutes      |
+| 📦 Avg. Order Value (AOV)    | ₹565            |
+| 🍕 Most Ordered Cuisine      | North Indian    |
+| 🔁 Repeat Order %            | 41.2%           |
+
 ## 🧠 How to Use
 
 1. Clone or download this repo
