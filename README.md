@@ -41,7 +41,7 @@ Tracks day-wise earnings.
 2. Open `swiggy analysis.sql` in Snowflake Worksheet
 3. Run each query, click **Chart**, then **Save to Dashboard**
 4. Customize dashboard in Snowsight
-5. Screenshot your dashboard and add to `screenshots/`
+5. Screenshot your dashboard 
 
 ---
 
