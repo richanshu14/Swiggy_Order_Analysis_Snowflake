@@ -2,6 +2,11 @@
 
 This project demonstrates an end-to-end data analysis pipeline on Swiggy food delivery data using **Snowflake SQL and Snowsight Dashboards**.
 
+## 📊 Snowflake Dashboard Preview
+
+![Swiggy Snowflake Analysis](snowflake_dashboard.png)
+
+
 ## 📌 Project Overview
 
 - 🌐 Built using **Snowflake Snowsight UI**
